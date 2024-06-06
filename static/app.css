@@ -1,16 +1,19 @@
 header {
-    background-color: tomato;
+    background-color: rgb(71, 175, 255);
     color: white;
     font-size: 200%;
     text-align: center;
     padding: 1em 0;
     margin-bottom: 1em;
+    font-family: Holtwood One SC, sans-serif;
 }
 
 footer {
-    background-color: tomato;
-    color: white;
+    background-color: rgb(71, 175, 255);
+    color: black;
     text-align: center;
     padding: 1em 0;
     margin-top: 2em;
+    font-family: Holtwood One SC, sans-serif;
 }
+
